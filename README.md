@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Alimrani
 
-🎓 **Computer Engineer** | 🌱 **Recently Graduated**  
+🎓 **Computer Engineer** |  **Recently Graduated**  
 💡 Passionate about **Deep Learning**, **Machine Learning**, and **Back-End Engineering**  
 📍 Gaza, Palestine  
 
@@ -9,7 +9,7 @@ Currently, I’m focused on strengthening my **deep learning foundations** while
 
 ---
 
-## 🚀 Featured Project: Damage_Vision (Machine Learning & Deep Learning)
+##  Featured Project: Damage_Vision (Machine Learning & Deep Learning)
 
  **Damage_Vision_project**
 
