@@ -11,7 +11,7 @@ Currently, I’m focused on strengthening my **deep learning foundations** while
 
 ## 🚀 Featured Project: Damage_Vision (Machine Learning & Deep Learning)
 
-🧠 **Damage_Vision_project**
+ **Damage_Vision_project**
 
 A learning-driven **Machine Learning & Deep Learning** project focused on **detecting and assessing building damage from images**.
 
@@ -32,7 +32,7 @@ The project starts with a **binary image classification model** (*destroyed vs. 
 
 ## 💼 Other Projects
 
-### 🧩 Mentorship Platform (Back-End System)
+###  Mentorship Platform (Back-End System)
 A web-based platform that connects mentees with expert mentors.
 
 **Features include:**
