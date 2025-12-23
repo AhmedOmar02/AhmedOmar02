@@ -8,21 +8,26 @@ I enjoy building intelligent systems, backend services, and applying AI to real-
 
 ---
 
-## 🚀 Featured Project: Damage Vision (Machine Learning + Deep Learning)
+🚀 **Featured Project: Damage\_Vision (Machine Learning & Deep Learning)**🧠 **Damage\_Vision\_project**
 
-### 🧠 Damage_Vision_project  
-A real-world **Machine Learning & Deep Learning** project that I’m building step-by-step as I progress through the **Deep Learning Specialization (deeplearning.ai)**.
+A learning-driven Machine Learning & Deep Learning project focused on **detecting and assessing building damage from images**.
 
-📌 **What this project represents:**  
-- A full learning journey documenting my growth in ML & DL  
-- Implementing algorithms from scratch (logistic regression, neural nets, optimization)  
-- Applying them to image-based damage classification  
-- Clean modular project structure (model, data loader, visualization, eval utils)  
-- Continually improving accuracy with each new concept learned  
+The project starts with a **binary image classification model (destroyed vs. not destroyed)** and gradually evolves toward **multi-level and percentage-based damage assessment**, as my skills progress.
 
-🔗 **Repository:**  
-👉 https://github.com/AhmedOmar02/Damage_Vision_project
+📌 **What this project showcases:**
 
+*   Step-by-step application of ML & DL concepts from the _Deep Learning Specialization (deeplearning.ai)_
+    
+*   Implementing core algorithms and neural networks while learning
+    
+*   Image-based damage classification with a clean, modular code structure
+    
+*   Continuous improvement of models, accuracy, and evaluation methods
+    
+*   A real-world use case inspired by post-war damage assessment and reconstruction
+    
+
+🔗 **Repository:**👉 [https://github.com/AhmedOmar02/Damage\_Vision\_project](https://github.com/AhmedOmar02/Damage_Vision_project)
 ---
 
 ## 💼 Other Projects
