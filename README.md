@@ -4,7 +4,6 @@
 💻 Focused on **Back-End Engineering**, with a growing interest in **Deep Learning** and **Machine Learning**
 📍 Gaza, Palestine
 
-I enjoy building **scalable, real-world backend systems** — designing clean APIs, secure authentication flows, and well-structured databases. I'm also exploring deep learning, and would love to dive into **quantum computing** down the line.
 
 ---
 
