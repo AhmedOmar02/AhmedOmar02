@@ -31,6 +31,8 @@ A full-stack web application that analyzes a sentence and generates multiple pos
 - 🖥️ React frontend for submitting sentences and displaying interpretations with their explanations and tones
 
 🛠 **Tech Stack:** Node.js, Express.js, React, DeepSeek API
+🔗 **Backend Repository:** https://github.com/AhmedOmar02/between-the-lines-ai
+🔗 **Front-end Repository:** [https://github.com/AhmedOmar02/between-the-lines-ai](https://github.com/AhmedOmar02/between-the-lines-ai-frontend.git)
 
 ---
 
