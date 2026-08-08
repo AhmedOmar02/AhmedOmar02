@@ -18,6 +18,7 @@ A full backend for a web platform connecting mentees with expert mentors, built 
 🛠 **Tech Stack:** Node.js, Express.js, TypeScript, Prisma ORM, MySQL
 
 🔗 **Repository:** https://github.com/AhmadAlBarasy/mentorship-platform-api/
+🔗 **Live:** https://growthly.netlify.app/
 
 ---
 
@@ -36,6 +37,9 @@ A full-stack web application that analyzes a sentence and generates multiple pos
 🔗 **Backend Repository:** https://github.com/AhmedOmar02/between-the-lines-ai
 
 🔗 **Front-end Repository:** [https://github.com/AhmedOmar02/between-the-lines-ai](https://github.com/AhmedOmar02/between-the-lines-ai-frontend.git)
+🔗 **Live:** https://between-the-lines-ai-frontend.vercel.app/
+
+
 
 ---
 
